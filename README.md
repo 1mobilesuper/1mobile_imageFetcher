@@ -2,8 +2,6 @@
 ====================
 
 image 
-init 
-clear cache
 
 
 
