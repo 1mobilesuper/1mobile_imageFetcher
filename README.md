@@ -2,3 +2,9 @@
 ====================
 
 image 
+init 
+clear cache
+
+
+
+
